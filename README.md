@@ -12,5 +12,4 @@ never leaves the browser.
 ⚠️ Interface in Spanish (English UI in progress). CSV works with any 
 broker/language. · Interfaz en español; CSV funciona con cualquier bróker.
 
-**EdgeForge PRO** (emotional X-ray, what-if scenarios, hidden risk): 
-edgeforgeanalytics@gmail.com
+**EdgeForge PRO** (emotional X-ray, what-if scenarios, hidden risk)
