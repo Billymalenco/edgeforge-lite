@@ -1,6 +1,6 @@
 # EdgeForge LITE — Local Trading Analytics
 
-**▶ Live demo (no download):** https://edgeforgeanalytics.github.io/edgeforge-lite/
+**▶ Live demo (no download):** (https://billymalenco.github.io/edgeforge-lite/)
 
 Analyze your trading history in 60 seconds. 100% local — your data 
 never leaves the browser.
