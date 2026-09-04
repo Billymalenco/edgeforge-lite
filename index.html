@@ -224,7 +224,11 @@ details summary{cursor:pointer;font-weight:700}
     <div class="grid c3" style="margin-top:14px">
       <div class="card"><h3><svg><use href="#i-chart"/></svg> Max Drawdown</h3><div class="kv" id="k_dd">N/A</div><div class="sub">Peak-to-trough del historial</div></div>
       <div class="card"><h3><svg><use href="#i-chart"/></svg> Mejor operación</h3><div class="kv ok" id="k_best">N/A</div><div class="sub" id="k_best_s">—</div></div>
-      <div class="card"><h3><svg><use href="#i-chart"/></svg> Peor operación</h3><div class="kv bad" id="k_worst">N/A</div><div class="sub" id="k_worst_s">—</div></div>
+      <div class="card"><h3><svg><use href="#i-chart"/></svg> Peor operación</h3><div class="kv bad" id="k_worst">N/A</div><div class="sub" id="k_worst_s">Peor operación</div></div>
+    </div>
+    <div class="card" style="margin-top:14px">
+      <h3><svg><use href="#i-chart"/></svg> Tabla de operaciones</h3>
+      <div style="overflow:auto"><table id="tbl"><thead><tr><th>#</th><th>Fecha</th><th>Símbolo</th><th>Lado</th><th>P&amp;L</th></tr></thead><tbody></tbody></table></div>
     </div>
   </section>
 
@@ -283,11 +287,6 @@ details summary{cursor:pointer;font-weight:700}
   </section>
 
   <!-- TABLA -->
-  <section class="card" style="margin-top:14px">
-    <h3><svg><use href="#i-chart"/></svg> Tabla de operaciones</h3>
-    <div style="overflow:auto"><table id="tbl"><thead><tr><th>#</th><th>Fecha</th><th>Símbolo</th><th>Lado</th><th>P&amp;L</th></tr></thead><tbody></tbody></table></div>
-  </section>
-
   <div class="footer">
     <div>EdgeForge LITE · Dashboard para fondeo internacional · 100% local</div>
     <div class="wm">Este dashboard es una herramienta de análisis y autoevaluación. No constituye asesoría financiera ni garantía de resultados.</div>
